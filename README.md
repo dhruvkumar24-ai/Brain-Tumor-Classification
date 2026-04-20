@@ -18,7 +18,7 @@ This project implements a brain tumor detection and classification system using 
 
 1. **Clone the repository**
    ```powershell
-   git clone https://github.com/PRIYANSH-DIXIT/BRAIN-TUMOUR-CLASSIFICATION.git
+   git clone https://github.com/dhruvkumar24-ai/Brain-Tumor-Classification.git
    ```
 
 2. **Install dependencies**
@@ -53,7 +53,7 @@ BRAIN-TUMOUR-CLASSIFICATION/
 ```
 
 ## Credits
-- Developed by Priyansh Dixit
+- Developed by Dhruv Kumar Sahu
 - Dataset by Masoud Nickparvar (Kaggle)
 
 ## License
