@@ -1,0 +1,19 @@
+# Python bytecode (technical trash)
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook auto-saves
+.ipynb_checkpoints
+
+# Virtual Environments (don't upload your local libraries)
+venv/
+env/
+.env
+
+# Data (Keep the folder, but don't upload massive datasets)
+data/*
+!data/.gitkeep
+
+# System files
+.DS_Store
+Thumbs.db
