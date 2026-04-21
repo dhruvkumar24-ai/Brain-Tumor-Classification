@@ -29,7 +29,7 @@ This project implements a brain tumor detection and classification system using 
    - The notebook automatically downloads the dataset using `kagglehub`.
 
 4. **Run the notebook**
-   - Open `Brain_tumor_detection_using_CNN.ipynb` in VS Code or Jupyter.
+   - Open `notebooks/Brain_tumor_detection_using_CNN.ipynb` in VS Code or Jupyter.
    - Follow the instructions in the notebook cells.
 
 ## Training Speed Optimizations
