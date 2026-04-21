@@ -72,3 +72,4 @@ The models were evaluation based on accuracy, precision, and recall. **Inception
 | Custom CNN | 76.0% | 0.74 | 0.72 |
 
 > **Key Insight:** The use of Inception modules allowed the network to choose the optimal kernel size for feature extraction, which was critical for identifying the subtle textures of Glioma vs. Meningioma tumors.
+![ROC-AUC Curve](images/"C:\Users\dhruv\OneDrive - IIT Kanpur\Pictures\Screenshots\Screenshot 2026-04-20 221014.png")
